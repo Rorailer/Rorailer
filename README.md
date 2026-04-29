@@ -1,1 +1,8 @@
-Fullstack + DevOps. Build web apps, break them, fix them, deploy them. Heavy into Docker, n8n, and running my own servers. Learn by doing, mostly by breaking things first. Contact me at [my Site](https://rorailer.site)
+# rorailer
+
+Fullstack & DevOps engineer. I build web apps, break them, fix them, deploy them.
+
+Heavy into Docker, n8n, and running my own servers. I learn by doing — mostly by breaking things first.
+
+🌐 Portfolio: [rorailer.site](https://rorailer.site)
+💼 LinkedIn: [linkedin.com/in/rorailer](https://linkedin.com/in/rorailer
